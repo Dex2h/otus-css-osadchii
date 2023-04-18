@@ -1,0 +1,79 @@
+html {
+    font-size: 18px;
+    font-family: Roboto;
+    line-height: normal;
+}
+
+h1 {
+
+    font-family: 'Playfair Display', serif;
+    font-size: 86px;
+}
+
+p {
+
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 20px;
+
+}
+
+p#losinfo {
+    font-size:18px;
+    }
+
+li#info {
+    font-size:16px;
+    font-family: Roboto, Arial, sans-serif;
+    }
+
+p#bb {
+    font-size:16px;
+    font-family: Roboto, Arial, sans-serif;
+}
+h2 {
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 20px;
+    
+}
+
+h3 {
+
+    font-size: 16px;
+    font-family: Roboto, Arial, sans-serif;
+}
+
+mail#one {
+
+    font-size: 20px;
+    font-family: Roboto, Arial, sans-serif;
+}
+
+p#katy
+{
+    font-family: 'Playfair Display', serif;
+    font-size: 86px;
+}
+
+p#cit {
+    font-size: 26px;
+    font-family: 'Bitter', serif;
+}
+
+p#top
+
+{
+    font-size: 32px;
+    font-family: 'Bitter', serif;
+}
+
+li {
+    font-size: 34px;
+    font-family: 'Bitter', serif;
+}
+
+.example-1 
+
+{
+    font-family: 'Playfair Display', serif;
+    font-size: 86px;
+}
