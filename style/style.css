@@ -38,7 +38,7 @@ li#info {
     font-family: Roboto, Arial, sans-serif;
     }
 
-p#bb {
+p.bb {
     font-size:16px;
     font-family: Roboto, Arial, sans-serif;
 }
@@ -54,19 +54,19 @@ h3 {
     font-family: Roboto, Arial, sans-serif;
 }
 
-mail#one {
+.one {
 
     font-size: 20px;
     font-family: Roboto, Arial, sans-serif;
 }
 
-p#katy
+p.katy
 {
     font-family: 'Playfair Display', serif;
     font-size: 86px;
 }
 
-p#cit {
+p.cit {
     font-size: 26px;
     font-family: 'Bitter', serif;
 }
