@@ -8,8 +8,6 @@ html {
     line-height: normal;
 
 }
-
-
 .header-menu {
     text-align: center;
 
@@ -21,26 +19,21 @@ html {
     margin: 0 auto;
     text-align: center;
     }
-    
-    .hero {
-        background-image: url(../img/1t.jpg);
-        height: 630px;
-        position: relative;
-    }
-    
-.hero-box {
-background-color: white;
-width: 56%;
-position: absolute;
-top: 50%;
-left: 50%;
-transform: translate(-50%,-50%);
+
+.hero {
+    background-image: url(../img/1t.jpg);
+    height: 630px;
+    position: relative;
 }
 
-
-
-
-
+.hero-box {
+    background-color: white;
+    width: 56%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
 
 li {
     list-style-type: none;
