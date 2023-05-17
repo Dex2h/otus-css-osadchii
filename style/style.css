@@ -56,7 +56,7 @@ html {
 }
 
 
-.content {
+.biography {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -68,19 +68,19 @@ html {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: top;
     align-content: flex-end;
     margin-left: 91px;
 }
 
-.block-1 {
+.bio-1 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
 
 }
 
-.block-2 {
+.bio-2 {
     display: flex;
     flex-wrap: wrap;
     align-self: flex-start;
@@ -93,26 +93,29 @@ html {
    
 }
 
-.block-3 {
+.bio-3 {
     display: flex;
     flex-direction: column;
+    margin-top: 163px;
+    margin-bottom: 0;
     font-family: 'Playfair Display', serif;
     font-size: 86px;
     font-weight: 500;
 }
 
-.block-4 {
+.bio-4 {
 
 display: flex;
 flex-direction: column;
     margin-top: 25px;
+    margin-bottom: 0;
     font-weight: 500;
     font-size: 18px;
     font-family: Roboto, Arial, sans-serif;
 
 }
 
-.block-5 {
+.bio-5 {
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
@@ -125,8 +128,9 @@ flex-direction: column;
 
     }
 
-.block-6 {
+.bio-6 {
 margin-top: 65px;
+margin-bottom: 0;
 
 }
 
