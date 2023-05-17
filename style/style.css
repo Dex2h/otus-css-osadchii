@@ -62,6 +62,7 @@ html {
     flex-wrap: nowrap;
     justify-content: center;
     margin-top: 10%;
+    max-width: 100%;
 }
 
 .blockfree { 
@@ -73,14 +74,14 @@ html {
     margin-left: 91px;
 }
 
-.bio-1 {
+.bio-foto {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
 
 }
 
-.bio-2 {
+.bio-toptext {
     display: flex;
     flex-wrap: wrap;
     align-self: flex-start;
@@ -92,7 +93,7 @@ html {
     
 }
 
-.bio-3 {
+.bio-name {
     display: flex;
     flex-direction: column;
     margin-top: 163px;
@@ -102,7 +103,7 @@ html {
     font-weight: 500;
 }
 
-.bio-4 {
+.bio-resume {
 
 display: flex;
 flex-direction: column;
@@ -114,7 +115,7 @@ flex-direction: column;
 
 }
 
-.bio-5 {
+.bio-quote {
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
@@ -127,7 +128,7 @@ flex-direction: column;
 
     }
 
-.bio-6 {
+.bio-rectangle {
 margin-top: 65px;
 margin-bottom: 0;
 
