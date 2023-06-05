@@ -3,6 +3,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Bitter&display=swap");
 
 html {
+   
     font-size: 18px;
     font-family: Roboto;
     line-height: normal;
@@ -134,7 +135,8 @@ margin-bottom: 0;
 }
 
 
-.Testimonials {
+.testimonials {
+
     margin: auto;
     margin-top: 10%;
     max-width: 100%;
@@ -155,12 +157,13 @@ margin-bottom: 0;
     font-weight: 700;
 }
 
-.item-2 {
+.monia-website {
     display: grid;
     grid-column-start: 1;
     grid-row-start: 2;
-    justify-content: end;
+    align-content: center;
     align-items: center;
+    justify-content: center;
     transform: rotate(-90deg);
     transform-origin: center;
     font-weight: 700;
@@ -170,27 +173,33 @@ margin-bottom: 0;
     
 }
 
-.item-3 {
+
+.monia-creativity  {
+    color: 000;
     display: grid;
     grid-column-start: 1;
     grid-row-start: 3;
+    align-content: center;
     align-items: center;
     justify-content: center;
     transform: rotate(-90deg);
-    line-height: 19px;
+    transform-origin: center;
     font-weight: 700;
+    line-height: 19px;
     font-size: 16px;
     font-family: Roboto, Arial, sans-serif;
 
 }
 
-.item-4 {
+.monia-creativity-two {
     display: grid;
     grid-column-start: 1;
     grid-row-start: 4;
+    align-content: center;
     align-items: center;
-    justify-content: start;
+    justify-content: center;
     transform: rotate(-90deg);
+    transform-origin: center;
     line-height: 19px;
     font-weight: 700;
     font-size: 16px;
@@ -198,14 +207,14 @@ margin-bottom: 0;
 
 }
 
-.item-5 {
+.monia-fotoone {
     display: grid;
     grid-column-start: 2;
     grid-row-start: 2;
     grid-row-end: -1;
 }
 
-.item-6 {
+.monia-citat {
     display: grid;
     grid-column-start: 3;
     grid-row-start: 2;
@@ -218,7 +227,7 @@ margin-bottom: 0;
 
 }
 
-.item-7 {
+.monia-fototwo {
     display: grid;
     grid-column-start: 3;
     grid-row-start: 4;
