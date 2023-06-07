@@ -235,23 +235,24 @@ margin-bottom: 0;
 }
 
 .desingers-cent {
+    max-width: 100%;
     display: flex;
-  justify-content: center;
+    justify-content: center;
+    
 }
 
 .desingers {
-   
-    width: 1337px;
-    height: 619px;
+    max-width: 1337px; 
+    max-height: 619px;
     display: grid;
     justify-content: center;
     align-items: start;
     grid-template-columns: 47.6% 5% 17%;
     grid-template-rows: 3fr 2fr 1fr 2fr;
-    gap: 31px;
-    max-width: 100%;
-    margin-left: 5%;
+    gap: 28px;
     margin-top: 10%;
+    margin-left: 30px;
+    margin-right: 30px;
     
 }
 
