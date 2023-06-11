@@ -144,7 +144,7 @@ margin-bottom: 0;
     display: grid;
     grid-template-columns: 15% 36% 49%;
     grid-template-rows: 1fr 7fr 1fr 2fr;
-    
+   
 }
 .free-head {
     display: grid;
@@ -319,9 +319,13 @@ margin-bottom: 0;
 .strengths {
     max-width: 1686px;
     display: grid;
+    margin: auto;
+    justify-content: center;
+    align-items: start;
     margin-top: 170px;
     margin-bottom: 74px;
     overflow-x: hidden;
+    /* overflow: auto; */
 }
 
 .strengths-mater {
@@ -329,7 +333,7 @@ margin-bottom: 0;
     height: 665px;
     display: grid;
     gap:30px;
-    margin-left: 270px;
+    margin-left: 290px;
     justify-content: center;
     align-content: center;
     align-items: center;
@@ -358,20 +362,27 @@ margin-bottom: 0;
     line-height: 40px;
 }
 
-
-
-
 .strengths-image {
     margin-top: 139px;
 
 }
 
-
 .strengths-point {
     display: grid;
     justify-items: center;
-    margin-right: 390px;
+    margin-right: 510px;
+    margin-top: 50px;
     transform: rotate(-90deg);
+    padding-right: 60px;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 23px;
+
+}
+
+.strengths-cent {
+    padding-right: 115px;
     
 }
 
