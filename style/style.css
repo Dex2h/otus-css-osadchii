@@ -9,6 +9,11 @@ html {
     
 }
 
+html, body {
+    max-width: 100%; 
+    overflow-x: hidden; 
+}
+
 
 .pick {
     position: absolute;
@@ -322,8 +327,9 @@ margin-bottom: 0;
     align-items: start;
     margin-top: 170px;
     margin-bottom: 74px;
-    overflow-x: hidden;
+    overflow:auto;
     overflow-y: hidden;
+   
 }
 
 .strengths-mater {
